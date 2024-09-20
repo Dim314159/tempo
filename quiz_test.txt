@@ -1,0 +1,11 @@
+1. High entropy means that the partitions in classification are
+a) pure
+b) not pure
+c) useful
+d) useless
+
+
+Answer: (b) Not pure
+Entropy is a measure of the randomness in the information being processed. The higher the entropy, the harder it is to draw any conclusions from that information.
+It is a measure of disorder or purity or unpredictability or uncertainty.
+Low entropy means less uncertain and high entropy means more uncertain.
